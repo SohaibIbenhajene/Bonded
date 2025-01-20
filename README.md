@@ -1,6 +1,6 @@
-# Friend Space
+# Bonded
 
-Friend Space is a  web application where users can create accounts, add friends, make posts, and interact with their communities. It is built with **Java & Spring Boot** on the backend and **React** on the frontend, offering a seamless and modern social networking experience.
+Bonded is a web application where users can create accounts, add friends, make posts, and interact with their communities. It is built with **Java & Spring Boot** on the backend and **React** on the frontend, offering a seamless and modern social networking experience.
 
 ## Features
 
